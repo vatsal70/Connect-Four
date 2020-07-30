@@ -1,0 +1,16 @@
+.board button {
+    width: 80px;
+    height: 80px;
+    background-color: gray;
+    border-radius: 50px;
+    border: 4px solid black;
+    margin: 1px;
+  }
+  
+body{
+  background-color: lightgreen;
+}
+h1{
+  color: crimson;
+  font-style: oblique;
+}
